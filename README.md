@@ -95,11 +95,6 @@ I'm a **Full-Stack Developer** with a love for solving problems, writing clean c
 
 ---
 
-### 📊 GitHub Stats
-![Byron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snndmaa&show_icons=true&theme=dark)
-
----
-
 ### ✨ Fun Facts:
 - 📚 **Avid reader** – yes, I read **Game of Thrones** before watching it!  
 - 🎵 I code better when **listening to music**  
